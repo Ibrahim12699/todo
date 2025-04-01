@@ -1,5 +1,30 @@
 # Task Management App
 
+## Mobile Screenshots
+<p>
+<img src="screenshots/mobile/1.png" width="200" alt="Splash" >
+<img src="screenshots/mobile/2.png" width="200" alt="Login" >
+<img src="screenshots/mobile/3.png" width="200" alt="Register" >
+<img src="screenshots/mobile/4.png" width="200" alt="Register" >
+<img src="screenshots/mobile/5.png" width="200" alt="Tasks" >
+<img src="screenshots/mobile/6.png" width="200" alt="Create Task" >
+<img src="screenshots/mobile/7.png" width="200" alt="Edit Task" >
+<img src="screenshots/mobile/8.png" width="200" alt="Notification" >
+<img src="screenshots/mobile/9.png" width="200" alt="Notification" >
+</p>
+
+## Tablet Screenshots
+<p>
+<img src="screenshots/tablet/1.png" width="250" alt="Login" >
+<img src="screenshots/tablet/2.png" width="250" alt="Register" >
+<img src="screenshots/tablet/3.png" width="250" alt="Tasks" >
+<img src="screenshots/tablet/4.png" width="250" alt="Create Task" >
+<img src="screenshots/tablet/5.png" width="250" alt="Edit Task" >
+<img src="screenshots/tablet/6.png" width="250" alt="Date Picker" >
+<img src="screenshots/tablet/7.png" width="250" alt="Time Picker" >
+<img src="screenshots/tablet/8.png" width="250" alt="Empty Data" >
+</p>
+
 ## Overview
 This is a Task Management Application built using Flutter, designed to demonstrate real-time collaboration and push notification features. The app utilizes Firebase services for authentication, real-time database updates, and notifications.
 
@@ -30,31 +55,6 @@ This is a Task Management Application built using Flutter, designed to demonstra
 
 ### 6. **Responsive UI**
 - Adaptive design for different screen sizes.
-
-## Mobile Screenshots
-<p>
-<img src="screenshots/mobile/1.png" width="200" alt="Splash" >
-<img src="screenshots/mobile/2.png" width="200" alt="Login" >
-<img src="screenshots/mobile/3.png" width="200" alt="Register" >
-<img src="screenshots/mobile/4.png" width="200" alt="Register" >
-<img src="screenshots/mobile/5.png" width="200" alt="Tasks" >
-<img src="screenshots/mobile/6.png" width="200" alt="Create Task" >
-<img src="screenshots/mobile/7.png" width="200" alt="Edit Task" >
-<img src="screenshots/mobile/8.png" width="200" alt="Notification" >
-<img src="screenshots/mobile/9.png" width="200" alt="Notification" >
-</p>
-
-## Tablet Screenshots
-<p>
-<img src="screenshots/tablet/1.png" width="250" alt="Login" >
-<img src="screenshots/tablet/2.png" width="250" alt="Register" >
-<img src="screenshots/tablet/3.png" width="250" alt="Tasks" >
-<img src="screenshots/tablet/4.png" width="250" alt="Create Task" >
-<img src="screenshots/tablet/5.png" width="250" alt="Edit Task" >
-<img src="screenshots/tablet/6.png" width="250" alt="Date Picker" >
-<img src="screenshots/tablet/7.png" width="250" alt="Time Picker" >
-<img src="screenshots/tablet/8.png" width="250" alt="Empty Data" >
-</p>
 
 ## Technologies Used
 - **Flutter** (Dart)
